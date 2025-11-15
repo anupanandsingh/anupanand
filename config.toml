@@ -1,6 +1,6 @@
 baseurl = "https://www.example.com/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "Anup Anand Singh"
+author = "Anup Anand Singh"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Anup Anand Singh"
   disableWebFonts = false
 
 [[menu.main]]
