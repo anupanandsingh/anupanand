@@ -13,12 +13,12 @@ pygmentscodefences  = true
   disableWebFonts = false
 
 [[menu.main]]
-    name = "About"
+    name = "Research"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Blog"
+    url  = "https://anupanandsingh.wordpress.com/"
 [[menu.main]]
-    name = "Resume"
+    name = "Talks"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 
