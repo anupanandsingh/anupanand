@@ -27,6 +27,28 @@
     <link rel="icon" type="image/png" href="{{ "a-web.png" | relURL }}">
     <link rel="apple-touch-icon" href="{{ "a-web.png" | relURL }}">
 
+    {{/* KaTeX for LaTeX math rendering (site or page level) */}}
+    {{ if or .Params.math .Site.Params.math }}
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-mLLZgUO0iB5VQdT17G8Sx5B8mXl1fQy6uE+7bY1q9nYwUcp7S0wR1r9Qz9wzj2P7" crossorigin="anonymous">
+      <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-nX0Up1Hq2z0C0rHqQXl5V5c2s3w5e0zqGf7kC7mH1l0iZGhPR4kFQk6+z3V6hQXh" crossorigin="anonymous"></script>
+      <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-mt8w4E9lJmM5p7a0h4e+6H5n1e2JwS0dZcP0o7i2aQyku3Q+2l0F6m5yGJ0o7Yvq" crossorigin="anonymous"></script>
+      <script>
+        window.addEventListener('DOMContentLoaded', function() {
+          if (window.renderMathInElement) {
+            window.renderMathInElement(document.body, {
+              delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+              ],
+              ignoredTags: ['script','noscript','style','textarea','pre','code']
+            });
+          }
+        });
+      </script>
+    {{ end }}
+
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}

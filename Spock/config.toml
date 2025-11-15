@@ -11,6 +11,7 @@ pygmentscodefences  = true
 [params]
     sitename = "Anup Anand Singh"
   disableWebFonts = false
+    math = true
 
 [[menu.main]]
     name = "Research"
