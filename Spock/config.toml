@@ -8,6 +8,9 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+# Disable Hugo taxonomy kinds (tags/categories)
+disableKinds = ["taxonomy", "term"]
+
 [params]
     sitename = "Anup Anand Singh"
   disableWebFonts = false
@@ -16,15 +19,25 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Research"
     url  = "/research/"
+    weight = 10
 [[menu.main]]
     name = "Blog"
     url  = "https://anupanandsingh.wordpress.com"
+    weight = 40
 [[menu.main]]
     name = "Talks"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/talks/"
+    weight = 20
+
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching/"
+    weight = 30
 
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+
+[taxonomies]
 
