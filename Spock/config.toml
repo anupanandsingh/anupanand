@@ -14,11 +14,16 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "Research"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/research/"
 [[menu.main]]
     name = "Blog"
     url  = "https://anupanandsingh.wordpress.com"
 [[menu.main]]
     name = "Talks"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
