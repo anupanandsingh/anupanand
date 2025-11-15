@@ -23,7 +23,11 @@ jobs:
           extended: true
 
       - name: Copy theme to exampleSite
-        run: cp -r . exampleSite/themes/black-and-light
+        run: |
+          mkdir -p exampleSite/themes/black-and-light
+          rsync -av --exclude='exampleSite' --exclude='.git' --exclude='.github' \
+            --exclude='.hugo_build.lock' --exclude='.DS_Store' \
+            . exampleSite/themes/black-and-light/
 
       - name: Build site
         run: cd exampleSite && hugo --minify
