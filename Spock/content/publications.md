@@ -1,6 +1,6 @@
 +++
 title = "Preprints and publications"
-subtitle = "Authors listed alphabetically by last name"
+subtitle = "In reverse chronological order, authors listed alphabetically by last name"
 +++
 
 <div class="publication">
