@@ -45,6 +45,7 @@
     margin: 0 15vw;
     padding-left: 0;
     padding-right: 0;
+    padding-top: 50px;
   }
 
   p {
@@ -294,17 +295,25 @@
 
   #nav {
     text-align:left;
-    position:static;
-    margin-top:8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-top: 0;
+    padding-top: 8px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     border-bottom: 1px solid rgba(0,0,0,0.12);
     padding-bottom: 8px;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    background: white;
+    z-index: 1000;
   }
 
   /* Subtle divider color in dark mode */
-  html[data-theme='dark'] #nav { border-bottom-color: rgba(255,255,255,0.18); }
+  html[data-theme='dark'] #nav { border-bottom-color: rgba(255,255,255,0.18); background: #121212; }
 
   #nav ul {
     display: flex;
@@ -378,7 +387,7 @@
     body { margin: 0 6vw; }
 
     /* Stack title and menu, left-align on small screens */
-    #nav { flex-direction: column; gap: 10px; }
+    #nav { flex-direction: column; gap: 10px; padding-left: 6vw; padding-right: 6vw; }
     #nav ul { justify-content: flex-start; }
 
     .menu-toggle { display: inline-flex; }
@@ -436,6 +445,8 @@
   @media (max-width: 400px) {
     body { margin: 0 5vw; }
 
+    #nav { padding-left: 5vw; padding-right: 5vw; }
+
     #nav h1 a {
       font-size:22px;
     }
@@ -467,11 +478,13 @@
   /* Tablet breakpoint adjustments */
   @media (max-width: 1024px) {
     body { margin: 0 10vw; }
+    #nav { padding-left: 10vw; padding-right: 10vw; }
   }
 
   /* Extra-wide screens: increase gutters by +10% (25vw) */
   @media (min-width: 1400px) {
     body { margin: 0 25vw; }
+    #nav { padding-left: 25vw; padding-right: 25vw; }
   }
 
   @media (prefers-color-scheme: dark) {
