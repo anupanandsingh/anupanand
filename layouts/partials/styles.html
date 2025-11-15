@@ -424,15 +424,28 @@
   @media (min-width: 1400px) {
     body { margin: 0 25vw; }
       .menu-toggle { display: inline-flex; }
-      /* Collapse menu to a vertical list and hide by default */
+      /* Collapse menu to a vertical list and hide by default with slide animation */
       #main-menu {
-        display: none;
+        display: flex;
         flex-direction: column;
         gap: 8px;
         margin: 0;
         padding: 0;
+        overflow: hidden;
+        max-height: 0;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-4px);
+        transition: max-height 220ms ease, opacity 160ms ease, transform 220ms ease, visibility 0s linear 220ms;
+        will-change: max-height, opacity, transform;
       }
-      #nav[data-menu-open="true"] #main-menu { display: flex; }
+      #nav[data-menu-open="true"] #main-menu {
+        max-height: 480px; /* large enough to show all items */
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+        transition: max-height 260ms ease, opacity 180ms ease, transform 260ms ease, visibility 0s;
+      }
     *, #nav h1 a {
       color: #FDFDFD;
     }
