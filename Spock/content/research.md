@@ -1,6 +1,6 @@
 +++
 title = "Research"
-subtitle = "A consolidated list of my preprints and publications can be found <a href="https://anupanand.space/publications/" target="_self">here</a>."
+subtitle = 'A consolidated list of my preprints and publications can be found <a href="https://anupanand.space/publications/" target="_self">here</a>.'
 +++
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
