@@ -230,7 +230,7 @@
     width:100%;
     max-width: 1100px;
     font-size:15px;
-    padding:60px 0 80px;
+    padding:48px 0 80px;
   }
 
   #content h1,#content h2 {
@@ -272,7 +272,7 @@
   #nav {
     text-align:left;
     position:static;
-    margin-top:60px;
+    margin-top:48px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -375,11 +375,11 @@
       will-change: max-height, opacity, transform;
     }
     #nav[data-menu-open="true"] #main-menu {
-      max-height: 480px; /* large enough to show all items */
+      max-height: 720px; /* allow room for future items */
       opacity: 1;
       visibility: visible;
       transform: translateY(0);
-      transition: max-height 260ms ease, opacity 180ms ease, transform 260ms ease, visibility 0s;
+      transition: max-height 380ms ease, opacity 240ms ease, transform 380ms ease, visibility 0s;
     }
 
     #nav h1 a {
