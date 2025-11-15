@@ -57,5 +57,3 @@ Anup Anand Singh<br>
 Supervisor: Spenta Wadia<br>
 <a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">MS thesis</a><br>
 May 2018
-
-<hr>
