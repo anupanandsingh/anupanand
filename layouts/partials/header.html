@@ -37,8 +37,13 @@
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
         <li>
-          <button id="theme-toggle" aria-label="Toggle theme" aria-pressed="false" style="background:none;border:0;cursor:pointer;font:inherit;text-decoration:underline">
-            Toggle Theme
+          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" aria-pressed="false" title="Toggle theme">
+            <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+              <path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.8 1.42-1.42zm10.45 14.32l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM12 4V1h-0v3h0zm0 19v-3h0v3h0zM4 12H1v0h3v0zm19 0h-3v0h3v0zM6.76 19.16l-1.42 1.42-1.79-1.8 1.41-1.41 1.8 1.79zm13-13l-1.8 1.79-1.41-1.41 1.79-1.8 1.42 1.42zM12 8a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true" style="display:none">
+              <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+            </svg>
           </button>
         </li>
       </ul>
@@ -47,13 +52,19 @@
       (function() {
         var key = 'theme';
         var root = document.documentElement;
+        var sun = null, moon = null;
         var toggle = function(next) {
           root.setAttribute('data-theme', next);
           try { localStorage.setItem(key, next); } catch (e) {}
           var btn = document.getElementById('theme-toggle');
           if (btn) {
             btn.setAttribute('aria-pressed', next === 'dark');
-            btn.textContent = next === 'dark' ? 'Light Mode' : 'Dark Mode';
+            if (!sun) sun = document.getElementById('icon-sun');
+            if (!moon) moon = document.getElementById('icon-moon');
+            if (sun && moon) {
+              if (next === 'dark') { sun.style.display = 'none'; moon.style.display = 'inline'; }
+              else { sun.style.display = 'inline'; moon.style.display = 'none'; }
+            }
           }
         };
         var saved = null;
@@ -61,10 +72,8 @@
         if (saved === 'dark' || saved === 'light') {
           toggle(saved);
         } else {
-          // No saved preference; initialize button label based on media query
           var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-          var btn = document.getElementById('theme-toggle');
-          if (btn) btn.textContent = prefersDark ? 'Light Mode' : 'Dark Mode';
+          toggle(prefersDark ? 'dark' : 'light');
         }
         var btnEl = document.getElementById('theme-toggle');
         if (btnEl) {
