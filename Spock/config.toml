@@ -43,10 +43,15 @@ disableKinds = ["taxonomy", "term"]
     parent = "more"
     weight = 42
 [[menu.main]]
+    name = "MaPLe"
+    url  = "/maple/"
+    parent = "more"
+    weight = 43
+[[menu.main]]
     name = "Miscellany"
     url  = "/miscellany/"
     parent = "more"
-    weight = 43
+    weight = 44
 
 [markup]
     [markup.goldmark]

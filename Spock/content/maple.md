@@ -1,10 +1,6 @@
----
-layout: page
-permalink: /maple/
-title: MaPLe
-description:
-nav: false
----
++++
+title = "MaPLe"
++++
 
 The **Ma**thematical **P**hysics at **Le**eds Seminar Series is aimed at bringing together researchers at any level from across the University of Leeds — from mathematics and physics departments alike — to give talks on themes in mathematical physics, broadly construed. On occasion, seminars also include those by researchers from outside the University of Leeds.
 
