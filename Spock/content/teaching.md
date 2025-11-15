@@ -1,10 +1,6 @@
----
-layout: page
-permalink: /teaching/
-title: Teaching
-description:
-nav: false
----
++++
+title = "Teaching"
++++
 
 <b>MATH1300 Dynamics and Motion | Tutorial</b>\
 University of Leeds, Spring 2025

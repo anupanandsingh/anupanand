@@ -1,10 +1,6 @@
----
-layout: page
-permalink: /collaborators/
-title: Collaborators
-description:
-nav: false
----
++++
+title = "Collaborators"
++++
 
 
 <h4>Integrable systems</h4>
