@@ -7,9 +7,9 @@ subtitle = 'A consolidated list of my preprints and publications can be found <a
 
 Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$r$-matrix</a> approach to integrable systems, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures. During my doctoral studies at the University of Leeds under the supervision of Vincent Caudrelier and Derek Harland, I developed a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. In the following two papers, we used the theory of Lie dialgebras to achieve this goal for a large class of finite-dimensional integrable systems:
 
-<a href="https://link.springer.com/article/10.1007/s11005-023-01766-9" target="_self">Lagrangian multiforms on coadjoint orbits for finite-dimensional integrable systems</a>\
+Lagrangian multiforms on coadjoint orbits for finite-dimensional integrable systems\
 Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh\
-*Letters in Mathematical Physics*, Feb 2024\
+<a href="https://link.springer.com/article/10.1007/s11005-023-01766-9" target="_self">Letters in Mathematical Physics</a>, Feb 2024\
 <a href="https://arxiv.org/abs/2307.07339" target="_self">arXiv:2307.07339</a>
 
 <a href="https://www.emis.de/journals/SIGMA/2024/100" target="_self">Lagrangian multiform for cyclotomic Gaudin models</a>\
