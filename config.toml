@@ -19,6 +19,6 @@ pygmentscodefences  = true
     name = "Blog"
     url  = "https://anupanandsingh.wordpress.com/"
 [[menu.main]]
-    name = "Talks"
+    name = "Publications"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 
