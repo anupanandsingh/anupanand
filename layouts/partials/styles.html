@@ -1,4 +1,24 @@
 <style>
+  /* Explicit theme overrides via [data-theme] take precedence over system */
+  html[data-theme='dark'] *,
+  html[data-theme='dark'] #nav h1 a { color: #FDFDFD; }
+  html[data-theme='dark'] body { background: #121212; }
+  html[data-theme='dark'] pre,
+  html[data-theme='dark'] code { background-color: #262626; }
+  html[data-theme='dark'] #sub-header,
+  html[data-theme='dark'] .date { color: #BABABA; }
+  html[data-theme='dark'] hr { background: #EBEBEB; }
+
+  /* Force light mode overrides to neutralize prefers-color-scheme:dark */
+  html[data-theme='light'] *,
+  html[data-theme='light'] #nav h1 a { color: black; }
+  html[data-theme='light'] body { background: white; }
+  html[data-theme='light'] pre,
+  html[data-theme='light'] code { background-color: #f7f7f7; }
+  html[data-theme='light'] #sub-header,
+  html[data-theme='light'] .date { color: #403c3b; }
+  html[data-theme='light'] hr { background: #403c3b; }
+
   * {
     border:0;
     font:inherit;
