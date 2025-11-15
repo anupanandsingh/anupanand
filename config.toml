@@ -1,17 +1,13 @@
-# Site settings
-baseURL = "http://localhost:1313/"
+baseURL = "https://anupanandsingh.github.io/Olga/"
 languageCode = "en-us"
 title = "Olga Site"
 theme = "black-and-light"
 enableRobotsTXT = true
 
-# Content sections to show on homepage
 [params]
-  mainSections = ["posts"]
   description = "A Hugo site using Black & Light theme"
   author = "Anup Anand Singh"
 
-# Menu (optional)
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -25,8 +21,5 @@ enableRobotsTXT = true
     url = "/posts/"
     weight = 2
 
-# Social links (optional)
 [social]
   github = "https://github.com/anupanandsingh"
-  twitter = "https://twitter.com/yourhandle"
-  linkedin = "https://linkedin.com/in/yourprofile"
