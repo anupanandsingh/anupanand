@@ -382,9 +382,23 @@
   @media (max-width: 750px) {
     body { margin: 0 6vw; }
 
-    /* Stack title and menu, left-align on small screens */
-    #nav { flex-direction: column; gap: 10px; padding-left: 6vw; padding-right: 6vw; }
-      #nav ul { justify-content: flex-start; }
+    /* Stack title and menu, with menu button on right */
+    #nav { 
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding-left: 6vw;
+      padding-right: 6vw;
+    }
+
+    .menu-toggle { display: inline-flex; }
+    
+    /* Hide the Menu text on mobile, show only icon */
+    .menu-toggle svg { display: inline; }
+    #menu-toggle { font-size: 0; }
+    #menu-toggle svg { font-size: 20px; }
 
     #nav h1 a {
       font-size:28px;
