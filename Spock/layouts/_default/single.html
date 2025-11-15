@@ -2,6 +2,9 @@
 
 <section id=content>
   <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+  {{ if .Params.subtitle }}
+    <div class="page-subtitle">{{ .Params.subtitle | safeHTML }}</div>
+  {{ end }}
 
   {{ if .Params.date }}
     <div id=sub-header>
