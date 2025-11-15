@@ -10,4 +10,5 @@ I am a member of the editorial team of <a href="https://www.mfo.de/outreach-medi
 
 <h4>Organisational activities</h4>
 
-<a href="https://anupanand.space/activities/" target="_self">Mathematical Physics at Leeds Seminar Series (MaPLe)</a>
+<a href="https://anupanand.space/activities/" target="_self">Mathematical Physics at Leeds Seminar Series (MaPLe)</a><br>
+<a href="https://anupanand.space/activities/" target="_self">Recent Advances in Classical and Quantum Integrability (Calista WG2 Workshop)</a><br>
