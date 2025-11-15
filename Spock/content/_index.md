@@ -11,7 +11,7 @@ You can read more about my research in integrability (and some past projects) <a
 
 <hr>
 
-I am on the editorial board of the <a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of Modern Mathematics From Oberwolfach</a>, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for <a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>.
+I am on the editorial board of the <a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of Modern Mathematics From Oberwolfach</a>, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for <a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>. Head <a href="https://anupanand.space/activities/" target="_self">here</a> for further information on various editorial, organisational and outreach activities I have been involved in.
 
 <hr>
 
