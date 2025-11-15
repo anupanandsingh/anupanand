@@ -21,7 +21,7 @@ Inside the folder of your Hugo site run:
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
 ## The config file
-Copy the [`config.toml`](//github.com/davidhampgonsalves/hugo-black-and-light-theme/blob/master/Spock/config.toml) from this themes Spock to your Hugo site or use it as a reference.
+Copy the [`config.toml`](//github.com/davidhampgonsalves/hugo-black-and-light-theme/blob/master/exampleSite/config.toml) from this themes exampleSite to your Hugo site or use it as a reference.
 
 ## License
 This theme is released under the GPL 3.0 license. For more information read the [license](https://raw.githubusercontent.com/davidhampgonsalves/hugo-black-and-light-theme/master/LICENSE).

@@ -1,4 +1,4 @@
-baseurl = "https://anupanand.space/"
+baseurl = "https://anupanand.space"
 title = "Anup Anand Singh"
 author = "Anup Anand Singh"
 canonifyurls = true
@@ -17,8 +17,7 @@ pygmentscodefences  = true
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 [[menu.main]]
     name = "Blog"
-    url  = "https://anupanandsingh.wordpress.com/"
+    url  = "https://anupanandsingh.wordpress.com"
 [[menu.main]]
-    name = "Publications"
-    url  = "https://anupanandsingh.wordpress.com/"
-
+    name = "Talks"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
