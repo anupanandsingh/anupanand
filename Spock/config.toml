@@ -17,22 +17,36 @@ disableKinds = ["taxonomy", "term"]
     math = true
 
 [[menu.main]]
-    name = "Research"
-    url  = "/research/"
-    weight = 10
-[[menu.main]]
     name = "Blog"
     url  = "https://anupanandsingh.wordpress.com"
-    weight = 40
+    weight = 10
+[[menu.main]]
+    name = "Research"
+    url  = "/research/"
+    weight = 20
 [[menu.main]]
     name = "Talks"
     url  = "/talks/"
-    weight = 20
-
+    weight = 30
+[[menu.main]]
+    name = "More"
+    identifier = "more"
+    weight = 40
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications/"
+    parent = "more"
+    weight = 41
 [[menu.main]]
     name = "Teaching"
     url  = "/teaching/"
-    weight = 30
+    parent = "more"
+    weight = 42
+[[menu.main]]
+    name = "Miscellany"
+    url  = "/miscellany/"
+    parent = "more"
+    weight = 43
 
 [markup]
     [markup.goldmark]
