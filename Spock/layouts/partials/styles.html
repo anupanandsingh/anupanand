@@ -46,6 +46,7 @@
     padding-left: 0;
     padding-right: 0;
     padding-top: 50px;
+    padding-bottom: 40px;
   }
 
   p {
@@ -315,6 +316,29 @@
   /* Subtle divider color in dark mode */
   html[data-theme='dark'] #nav { border-bottom-color: rgba(255,255,255,0.18); background: #121212; }
 
+  /* Fixed footer styling */
+  #site-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 9px;
+    padding: 8px 15vw;
+    background: white;
+    border-top: 1px solid rgba(0,0,0,0.12);
+    z-index: 1000;
+  }
+
+  #site-footer p {
+    margin: 0;
+  }
+
+  html[data-theme='dark'] #site-footer {
+    background: #121212;
+    border-top-color: rgba(255,255,255,0.18);
+  }
+
   #nav ul {
     display: flex;
     justify-content: flex-end;
@@ -385,6 +409,8 @@
 
   @media (max-width: 750px) {
     body { margin: 0 6vw; }
+
+    #site-footer { padding-left: 6vw; padding-right: 6vw; }
 
     /* Stack title and menu, with menu button on right */
     #nav { 
@@ -459,6 +485,8 @@
   @media (max-width: 400px) {
     body { margin: 0 5vw; }
 
+    #site-footer { padding-left: 5vw; padding-right: 5vw; }
+
     #nav { padding-left: 5vw; padding-right: 5vw; }
 
     #nav h1 a {
@@ -493,12 +521,14 @@
   @media (max-width: 1024px) {
     body { margin: 0 10vw; }
     #nav { padding-left: 10vw; padding-right: 10vw; }
+    #site-footer { padding-left: 10vw; padding-right: 10vw; }
   }
 
   /* Extra-wide screens: increase gutters by +10% (25vw) */
   @media (min-width: 1400px) {
     body { margin: 0 25vw; }
     #nav { padding-left: 25vw; padding-right: 25vw; }
+    #site-footer { padding-left: 25vw; padding-right: 25vw; }
   }
 
   @media (prefers-color-scheme: dark) {
