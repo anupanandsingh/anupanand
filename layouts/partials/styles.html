@@ -326,7 +326,7 @@
   }
 
   @media (max-width: 750px) {
-    body { /* padding already set by default for left alignment */ }
+    body { margin: 0 6vw; }
 
     #nav h1 a {
       font-size:28px;
@@ -357,7 +357,7 @@
   }
 
   @media (max-width: 400px) {
-    body { /* padding already set by default for left alignment */ }
+    body { margin: 0 5vw; }
 
     #nav h1 a {
       font-size:22px;
@@ -385,6 +385,11 @@
     .posts_listing li div{
       font-size:12px;
     }
+  }
+
+  /* Tablet breakpoint adjustments */
+  @media (max-width: 1024px) {
+    body { margin: 0 10vw; }
   }
 
   @media (prefers-color-scheme: dark) {
