@@ -273,6 +273,9 @@
     text-align:left;
     position:static;
     margin-top:60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
   }
 
   #nav ul {
@@ -332,6 +335,10 @@
 
   @media (max-width: 750px) {
     body { margin: 0 6vw; }
+
+    /* Stack title and menu, left-align on small screens */
+    #nav { flex-direction: column; gap: 10px; }
+    #nav ul { justify-content: flex-start; }
 
     #nav h1 a {
       font-size:28px;
