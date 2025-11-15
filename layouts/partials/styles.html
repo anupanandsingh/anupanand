@@ -320,6 +320,17 @@
 
   #links :nth-child(1) {
     margin-right:0.5em;;
+    .menu-toggle {
+      display: none;
+      background: none;
+      border: 0;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+      font-size: 15px;
+      align-items: center;
+      gap: 6px;
+    }
   }
 
   #links :nth-child(2) {
@@ -412,9 +423,16 @@
   /* Extra-wide screens: increase gutters by +10% (25vw) */
   @media (min-width: 1400px) {
     body { margin: 0 25vw; }
-  }
-
-  @media (prefers-color-scheme: dark) {
+      .menu-toggle { display: inline-flex; }
+      /* Collapse menu to a vertical list and hide by default */
+      #main-menu {
+        display: none;
+        flex-direction: column;
+        gap: 8px;
+        margin: 0;
+        padding: 0;
+      }
+      #nav[data-menu-open="true"] #main-menu { display: flex; }
     *, #nav h1 a {
       color: #FDFDFD;
     }

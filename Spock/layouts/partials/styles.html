@@ -312,6 +312,19 @@
     vertical-align: middle;
   }
 
+  /* Mobile menu toggle button (hidden on wide screens) */
+  .menu-toggle {
+    display: none;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    font-size: 15px;
+    align-items: center;
+    gap: 6px;
+  }
+
   #links {
     display: flex;
     justify-content: space-between;
@@ -344,6 +357,17 @@
     /* Stack title and menu, left-align on small screens */
     #nav { flex-direction: column; gap: 10px; }
     #nav ul { justify-content: flex-start; }
+
+    .menu-toggle { display: inline-flex; }
+    /* Collapse menu to a vertical list and hide by default */
+    #main-menu {
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      margin: 0;
+      padding: 0;
+    }
+    #nav[data-menu-open="true"] #main-menu { display: flex; }
 
     #nav h1 a {
       font-size:28px;
