@@ -135,9 +135,6 @@
           var currentHost = window.location.hostname;
           var links = document.querySelectorAll('a');
           links.forEach(function(link) {
-            // Skip if target is already explicitly set
-            if (link.hasAttribute('target')) return;
-            
             var href = link.getAttribute('href');
             if (!href) return;
             
@@ -146,14 +143,20 @@
               try {
                 var linkHost = new URL(href).hostname;
                 if (linkHost !== currentHost) {
+                  // External link - open in new tab
                   link.setAttribute('target', '_blank');
                   link.setAttribute('rel', 'noopener noreferrer');
+                } else {
+                  // Internal link to same domain - ensure it opens in same tab
+                  link.removeAttribute('target');
                 }
               } catch (e) {
                 // Invalid URL, skip
               }
+            } else {
+              // Relative links - ensure they open in same tab
+              link.removeAttribute('target');
             }
-            // Internal links (relative paths, anchors) stay in same tab by default
           });
         });
       })();
