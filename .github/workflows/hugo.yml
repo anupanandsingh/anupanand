@@ -30,6 +30,9 @@ jobs:
       - name: Build site
         run: cd Spock && hugo --minify
 
+      - name: Add CNAME for custom domain
+        run: echo "anupanand.space" > Spock/public/CNAME
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
