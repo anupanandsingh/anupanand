@@ -1,6 +1,6 @@
 +++
-title = "Home"
-subtitle = "Integrability, Geometry, and Mathematical Physics"
+title = "Anup Anand Singh"
+subtitle = "Research Associate in Mathematical Physics"
 +++
 
 Physics and mathematics inspire each other in beautiful ways. It is this interplay between the two that draws me to integrability, the broad area of my research. An integrable system -- characterised by a set of equations that can be "solved exactly" -- is highly symmetrical and has fascinating mathematical structures. And while integrability in the natural world is rare, it offers valuable insights into the fundamental principles underlying the laws of nature. 
