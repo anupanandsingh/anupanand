@@ -1,10 +1,6 @@
----
-layout: page
-permalink: /activities/
-title: Activities
-description:
-nav: false
----
++++
+title = "Activities"
++++
 
 <h4>Editing and reviewing</h4>
 
