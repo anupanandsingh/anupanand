@@ -22,11 +22,14 @@ jobs:
           hugo-version: '0.152.2'
           extended: true
 
+      - name: Copy theme to exampleSite
+        run: cp -r . exampleSite/themes/black-and-light
+
       - name: Build site
-        run: hugo --minify
+        run: cd exampleSite && hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./exampleSite/public
