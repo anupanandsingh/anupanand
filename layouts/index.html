@@ -1,6 +1,11 @@
 {{ partial "header.html" . }}
 
 <section id=content>
+  {{ if .Content }}
+    <div class="entry-content">
+      {{ .Content }}
+    </div>
+  {{ end }}
   <ul class=posts_listing>
     {{ range .Site.RegularPages }}
       <li>
