@@ -2,26 +2,26 @@
 title = "Teaching"
 +++
 
-<b>MATH1300 Dynamics and Motion | Tutorial</b>\lt;br\gt;
+<b>MATH1300 Dynamics and Motion | Tutorial</b><br>
 University of Leeds, Spring 2025
 
-<b>MATH2080 Further Linear Algebra | Workshop</b>\lt;br\gt;
+<b>MATH2080 Further Linear Algebra | Workshop</b><br>
 University of Leeds, Autumn 2024
 
-<b>MATH2230 Discrete Mathematics | Workshop</b>\lt;br\gt;
+<b>MATH2230 Discrete Mathematics | Workshop</b><br>
 University of Leeds, Spring 2024
 
-<b>MATH2080 Further Linear Algebra | Workshop</b>\lt;br\gt;
+<b>MATH2080 Further Linear Algebra | Workshop</b><br>
 University of Leeds, Autumn 2023
 
-<b>MATH1005 Core Mathematics | Tutorial</b>\lt;br\gt;
+<b>MATH1005 Core Mathematics | Tutorial</b><br>
 University of Leeds, Spring 2023
 
-<b>MATH1055 Numbers and Vectors | Tutorial</b>\lt;br\gt;
+<b>MATH1055 Numbers and Vectors | Tutorial</b><br>
 University of Leeds, Autumn 2022
 
-<b>MATH1050 Calculus and Mathematical Analysis | Tutorial</b>\lt;br\gt;
+<b>MATH1050 Calculus and Mathematical Analysis | Tutorial</b><br>
 University of Leeds, Autumn 2022
 
-<b>MATH1005 Core Mathematics | Tutorial</b>\lt;br\gt;
+<b>MATH1005 Core Mathematics | Tutorial</b><br>
 University of Leeds, Autumn 2022

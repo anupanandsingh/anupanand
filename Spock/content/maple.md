@@ -12,9 +12,9 @@ For up-to-date information on the series, check out **<a href="https://mathssemi
 
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
-**Path integral formulation of stochastic processes**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Path integral formulation of stochastic processes**<br>
+**<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -37,9 +37,9 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 <hr>
 
 <h5>March 05, 2024 | 11:00-12:00</h5>
-**The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Cas Chaudhuri</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**<br>
+**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Cas Chaudhuri</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -57,9 +57,9 @@ We will begin with a brief overview of Abelian YMH theory and the existence of v
 <hr>
 
 <h5>March 19, 2024 | 11:00-12:00</h5>
-**Beyond the eigenstate thermalisation hypothesis: deep thermalisation in constrained quantum systems**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\lt;br\gt;
-School of Physics and Astronomy\lt;br\gt;
+**Beyond the eigenstate thermalisation hypothesis: deep thermalisation in constrained quantum systems**<br>
+**<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**<br>
+School of Physics and Astronomy<br>
 University of Leeds
 
 <details>
@@ -84,9 +84,9 @@ Performing measurements on a complementary subsystem, however, can reveal finer 
 <hr>
 
 <h5>April 30, 2024 | 11:00-12:00</h5>
-**On the action principle for integrable systems**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**On the action principle for integrable systems**<br>
+**<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -99,9 +99,9 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 <hr>
 
 <h5>May 14, 2024 | 11:00-12:00</h5>
-**Yang–Mills instantons in dimensions 7 and 8**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Yang–Mills instantons in dimensions 7 and 8**<br>
+**<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 
@@ -124,9 +124,9 @@ Finally, I will briefly explain how my own research on the deformation theory of
 
 
 <h5>June 04, 2024 | 11:00-12:00</h5>
-**Kähler manifolds, the Calabi construction, and harmonic spinors**\lt;br\gt;
-**<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**\lt;br\gt;
-Department of Mathematical Sciences\lt;br\gt;
+**Kähler manifolds, the Calabi construction, and harmonic spinors**<br>
+**<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**<br>
+Department of Mathematical Sciences<br>
 University of Bath
 
 <details>
@@ -140,9 +140,9 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 
 
 <h5>October 22, 2024 | 10:00-11:00</h5>
-**Anyons**\lt;br\gt;
-**<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**\lt;br\gt;
-School of Physics and Astronomy\lt;br\gt;
+**Anyons**<br>
+**<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**<br>
+School of Physics and Astronomy<br>
 University of Leeds
 
 <details>
@@ -155,9 +155,9 @@ Anyons are quasiparticles in two-dimensional systems that show statistical prope
 <hr>
 
 <h5>November 05, 2024 | 10:00-11:00</h5>
-**How to cheat at billiards: a new open classical and quantum billiard model**\lt;br\gt;
-**<a href="https://katherineholmespublic.wordpress.com" target="_self">Katherine Holmes</a>**\lt;br\gt;
-Department of Mathematics\lt;br\gt;
+**How to cheat at billiards: a new open classical and quantum billiard model**<br>
+**<a href="https://katherineholmespublic.wordpress.com" target="_self">Katherine Holmes</a>**<br>
+Department of Mathematics<br>
 Imperial College London
 
 <details>
@@ -179,9 +179,9 @@ This talk is based on a paper soon to be released on arXiv: <i>Intensity landsca
 <hr>
 
 <h5>November 19, 2024 | 10:00-11:00</h5>
-**The Yang-Baxter equation and quantum group symmetry**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/pgr/11714/benjamin-morris" target="_self">Benjamin Morris</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**The Yang-Baxter equation and quantum group symmetry**<br>
+**<a href="https://eps.leeds.ac.uk/maths/pgr/11714/benjamin-morris" target="_self">Benjamin Morris</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -194,9 +194,9 @@ We begin with an introduction to the Yang-Baxter equation, as a master equation 
 <hr>
 
 <h5>December 03, 2024 | 10:00-11:00</h5>
-**Random geometric graphs -- from discs to scale-free models**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/staff/13156/dr-peter-gracar" target="_self">Peter Gracar</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Random geometric graphs -- from discs to scale-free models**<br>
+**<a href="https://eps.leeds.ac.uk/maths/staff/13156/dr-peter-gracar" target="_self">Peter Gracar</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -211,9 +211,9 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 
 
 <h5>January 28, 2025 | 10:00-11:00</h5>
-**Quantum many-body scars: a new paradigm of order amidst quantum chaos**\lt;br\gt;
-**<a href="https://theory.leeds.ac.uk/zlatko-papic" target="_self">Zlatko Papic</a>**\lt;br\gt;
-School of Physics and Astronomy\lt;br\gt;
+**Quantum many-body scars: a new paradigm of order amidst quantum chaos**<br>
+**<a href="https://theory.leeds.ac.uk/zlatko-papic" target="_self">Zlatko Papic</a>**<br>
+School of Physics and Astronomy<br>
 University of Leeds
 
 <details>
@@ -226,9 +226,9 @@ The quest to understand out-of-equilibrium behaviour of complex quantum systems 
 <hr>
 
 <h5>February 11, 2025 | 10:00-11:00</h5>
-**Discrete approximations for the induced connection**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Discrete approximations for the induced connection**<br>
+**<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -241,9 +241,9 @@ The induced connection is a natural connection on a subbundle of a vector bundle
 <hr>
 
 <h5>February 25, 2025 | 10:00-11:00</h5>
-**Integrable vortices in the Abelian Higgs model**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/pgr/15317/nora-gavrea" target="_self">Nora Gavrea</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Integrable vortices in the Abelian Higgs model**<br>
+**<a href="https://eps.leeds.ac.uk/maths/pgr/15317/nora-gavrea" target="_self">Nora Gavrea</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -256,9 +256,9 @@ Vortices are 2-dimensional topological solitons defined on a Riemann surface in 
 <hr>
 
 <h5>March 11, 2025 | 10:00-11:00</h5>
-**Magnetic buoyancy in the solar tachocline**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/maths/pgr/11712/lucas-gosling" target="_self">Lucas Gosling</a>**\lt;br\gt;
-School of Mathematics\lt;br\gt;
+**Magnetic buoyancy in the solar tachocline**<br>
+**<a href="https://eps.leeds.ac.uk/maths/pgr/11712/lucas-gosling" target="_self">Lucas Gosling</a>**<br>
+School of Mathematics<br>
 University of Leeds
 
 <details>
@@ -275,9 +275,9 @@ The second part of the talk will focus on overstability, i.e., states which exhi
 <hr>
 
 <h5>March 18, 2025 | 10:00-11:00</h5>
-**From the quantum sine-Gordon model to number theory via partitions**\lt;br\gt;
-**<a href="https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/414/dunning-clare" target="_self">Clare Dunning</a>**\lt;br\gt;
-School of Engineering, Mathematics and Physics\lt;br\gt;
+**From the quantum sine-Gordon model to number theory via partitions**<br>
+**<a href="https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/414/dunning-clare" target="_self">Clare Dunning</a>**<br>
+School of Engineering, Mathematics and Physics<br>
 University of Kent
 
 <details>
@@ -291,9 +291,9 @@ Partitions of integers play a role in a variety of fields including number theor
 
 
 <h5>May 06, 2025 | 10:00-11:00</h5>
-**Regularizing 3D conformal field theories via the fuzzy sphere**\lt;br\gt;
-**<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**\lt;br\gt;
-School of Physics and Astronomy\lt;br\gt;
+**Regularizing 3D conformal field theories via the fuzzy sphere**<br>
+**<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**<br>
+School of Physics and Astronomy<br>
 University of Leeds
 
 <details>

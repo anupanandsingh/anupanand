@@ -5,14 +5,14 @@ title = "Collaborators"
 
 <h4>Integrable systems</h4>
 
-<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>\lt;br\gt;
-<a href="https://sites.google.com/view/martadellatti" target="_self">Marta Dell'Atti</a>\lt;br\gt;
-<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>\lt;br\gt;
+<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a><br>
+<a href="https://sites.google.com/view/martadellatti" target="_self">Marta Dell'Atti</a><br>
+<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a><br>
 <a href="https://www.york.ac.uk/maths/people/benoit-vicedo" target="_self">Benoît Vicedo</a>
 
 <hr>
 
 <h4>Causal set theory</h4>
 
-Abhishek Mathur\lt;br\gt;
+Abhishek Mathur<br>
 <a href="https://sumatisuryaswebpage.wordpress.com" target="_self">Sumati Surya</a>
