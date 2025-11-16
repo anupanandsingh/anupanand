@@ -10,8 +10,7 @@ For up-to-date information on the series, check out **<a href="https://mathssemi
 
 <hr>
 
-
-<h5>February 20, 2024 | 11:00-12:00</h5>
+##### February 20, 2024 | 11:00-12:00
 **Path integral formulation of stochastic processes**<br>
 **<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**<br>
 School of Mathematics<br>
@@ -28,15 +27,14 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 
 <br><br>
 
-[1] Ge, Hao, and Qian, Hong. <i>Int. J. Mod. Phys.</i> <b>B 26.24</b> 1230012 (2012)    
-<br>
-[2] Fitzgerald, Steve, et al. <i>J. Chem. Phys.</i> <b>158</b>.12 (2023)
+[1] Ge, Hao, and Qian, Hong. *Int. J. Mod. Phys.* **B 26.24** 1230012 (2012)  
+[2] Fitzgerald, Steve, et al. *J. Chem. Phys.* **158**.12 (2023)
 
 </details>
 
 <hr>
 
-<h5>March 05, 2024 | 11:00-12:00</h5>
+##### March 05, 2024 | 11:00-12:00
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Cas Chaudhuri</a>**<br>
 School of Mathematics<br>
@@ -45,18 +43,16 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-The geodesic approximation is a method by which the low-energy/non-relativistic dynamics of solitons in a classical field theory are modelled by geodesics on a related <i>moduli space</i>. In practical terms, this reduces the problem of understanding soliton dynamics to studying the Riemannian geometry of the associated moduli space, often a more tractable problem. The moduli space constructed is also an object worthy of study in its own right, possessing canonical geometric structures beyond the Riemannian metric which can affect the soliton dynamics.
-
-<br><br>
+The geodesic approximation is a method by which the low-energy/non-relativistic dynamics of solitons in a classical field theory are modelled by geodesics on a related *moduli space*. In practical terms, this reduces the problem of understanding soliton dynamics to studying the Riemannian geometry of the associated moduli space, often a more tractable problem. The moduli space constructed is also an object worthy of study in its own right, possessing canonical geometric structures beyond the Riemannian metric which can affect the soliton dynamics.
 
 In this talk, I will introduce the geodesic approximation in the particular context of the dynamics of vortices in Abelian Yang-Mills-Higgs theory.
-We will begin with a brief overview of Abelian YMH theory and the existence of vortex solitons, moving onto the existence and structure of static vortex moduli spaces, and the validity of the geodesic approximation in the low-energy regime. The second half of the talk will focus on finer details about the vortex moduli space including the construction of the <i>L</i>²-metric and some key geometric properties. Time permitting, we will mention some new results on how the vortex metric can itself be approximated in certain parametric limits.
+We will begin with a brief overview of Abelian YMH theory and the existence of vortex solitons, moving onto the existence and structure of static vortex moduli spaces, and the validity of the geodesic approximation in the low-energy regime. The second half of the talk will focus on finer details about the vortex moduli space including the construction of the *L*²-metric and some key geometric properties. Time permitting, we will mention some new results on how the vortex metric can itself be approximated in certain parametric limits.
 
 </details>
 
 <hr>
 
-<h5>March 19, 2024 | 11:00-12:00</h5>
+##### March 19, 2024 | 11:00-12:00
 **Beyond the eigenstate thermalisation hypothesis: deep thermalisation in constrained quantum systems**<br>
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**<br>
 School of Physics and Astronomy<br>
@@ -67,23 +63,19 @@ University of Leeds
 
 The Eigenstate Thermalisation Hypothesis (ETH) is a powerful conjecture that explains the emergence of thermodynamics in isolated quantum systems. By postulating a connection between random matrix ensembles and deterministic unitary dynamics, ETH postulates that the reduced density matrix of a generic quantum system evolves to the universal form of a Gibbs ensemble. Then, "thermalisation" occurs as entanglement builds up between a subsystem and its complement.
 
-<br><br>
-
 Performing measurements on a complementary subsystem, however, can reveal finer nuances in the system's ability to thermalise. This concept, dubbed as "deep thermalisation", promises to generalize ETH and has been recently realised in experiments on Rydberg atom arrays [1, 2]. In this talk, I will give a brief introduction to ETH and introduce this new formalism. I will also present the idea that systems which look "thermal" in the ETH sense can be highly "non-thermal" when probed through the lens of deep thermalisation [3]. This finding will be illustrated on several constrained models that describe slow relaxation in quantum glasses and quantum many-body scars in Rydberg atom arrays.
 
-<br><br>
 
-[1] <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311" target="_self">https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311</a>   
-<br>
-[2] <a href="https://www.nature.com/articles/s41586-022-05442-1" target="_self">https://www.nature.com/articles/s41586-022-05442-1</a>
-<br>
+
+[1] <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311" target="_self">https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311</a>  
+[2] <a href="https://www.nature.com/articles/s41586-022-05442-1" target="_self">https://www.nature.com/articles/s41586-022-05442-1</a>  
 [3] <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317" target="_self">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317</a>
 
 </details>
 
 <hr>
 
-<h5>April 30, 2024 | 11:00-12:00</h5>
+##### April 30, 2024 | 11:00-12:00
 **On the action principle for integrable systems**<br>
 **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**<br>
 School of Mathematics<br>
@@ -98,7 +90,7 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 
 <hr>
 
-<h5>May 14, 2024 | 11:00-12:00</h5>
+##### May 14, 2024 | 11:00-12:00
 **Yang–Mills instantons in dimensions 7 and 8**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**<br>
 School of Mathematics<br>
@@ -110,11 +102,9 @@ University of Leeds
 
 In this talk I will gently introduce the notion of Yang–Mills instantons in higher dimensions, in particular, in dimensions 7 and 8. I will also briefly discuss the current research in this area, including my own, and how it fits into the bigger picture.
 
-<br><br>
-
 After reviewing 4-dimensional instantons, I will discuss the main physical motivations behind higher-dimensional instantons, by following the historical development of the subject. Then, I will introduce Güraydin–Nicolai instantons and Fairlie–Nuyts–Fubini–Nicolai (FNFN) instantons on ℝ⁷ and ℝ⁸ respectively. These are the earliest examples of instantons in dimensions 7 and 8 respectively, analogous to the BPST instantons on ℝ⁴.
 
-<br><br>
+
 
 Finally, I will briefly explain how my own research on the deformation theory of instantons on asymptotically conical manifolds can provide many important properties of these instantons.
 
@@ -122,8 +112,7 @@ Finally, I will briefly explain how my own research on the deformation theory of
 
 <hr>
 
-
-<h5>June 04, 2024 | 11:00-12:00</h5>
+##### June 04, 2024 | 11:00-12:00
 **Kähler manifolds, the Calabi construction, and harmonic spinors**<br>
 **<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**<br>
 Department of Mathematical Sciences<br>
@@ -138,8 +127,7 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 
 <hr>
 
-
-<h5>October 22, 2024 | 10:00-11:00</h5>
+##### October 22, 2024 | 10:00-11:00
 **Anyons**<br>
 **<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**<br>
 School of Physics and Astronomy<br>
@@ -154,7 +142,7 @@ Anyons are quasiparticles in two-dimensional systems that show statistical prope
 
 <hr>
 
-<h5>November 05, 2024 | 10:00-11:00</h5>
+##### November 05, 2024 | 10:00-11:00
 **How to cheat at billiards: a new open classical and quantum billiard model**<br>
 **<a href="https://katherineholmespublic.wordpress.com" target="_self">Katherine Holmes</a>**<br>
 Department of Mathematics<br>
@@ -171,14 +159,13 @@ In this talk, I will introduce the billiard model and debut a new classical leak
 
 <br><br>
 
-This talk is based on a paper soon to be released on arXiv: <i>Intensity landscapes in elliptical and oval billiards with a circular absorbing region</i>. The final section will implement semiclassical methods inspired by a recent PRL: <i>Husimi dynamics generated by non-Hermitian Hamiltonians</i>, 2023.
-
+This talk is based on a paper soon to be released on arXiv: *Intensity landscapes in elliptical and oval billiards with a circular absorbing region*. The final section will implement semiclassical methods inspired by a recent PRL: *Husimi dynamics generated by non-Hermitian Hamiltonians*, 2023.
 
 </details>
 
 <hr>
 
-<h5>November 19, 2024 | 10:00-11:00</h5>
+##### November 19, 2024 | 10:00-11:00
 **The Yang-Baxter equation and quantum group symmetry**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/11714/benjamin-morris" target="_self">Benjamin Morris</a>**<br>
 School of Mathematics<br>
@@ -187,13 +174,13 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-We begin with an introduction to the Yang-Baxter equation, as a master equation for integrability in 2D lattice models in statistical mechanics. We will see that through the classification of (classes of) solutions to this equation it is natural to consider solutions related to physical symmetries known as quantum groups. We will then discuss a scheme for obtaining factorised solutions to the Yang-Baxter equation in a class of infinite-dimensional representations of the quantum group <i>U𝑞sl(n)</i>.
+We begin with an introduction to the Yang-Baxter equation, as a master equation for integrability in 2D lattice models in statistical mechanics. We will see that through the classification of (classes of) solutions to this equation it is natural to consider solutions related to physical symmetries known as quantum groups. We will then discuss a scheme for obtaining factorised solutions to the Yang-Baxter equation in a class of infinite-dimensional representations of the quantum group *U𝑞sl(n)*.
 
 </details>
 
 <hr>
 
-<h5>December 03, 2024 | 10:00-11:00</h5>
+##### December 03, 2024 | 10:00-11:00
 **Random geometric graphs -- from discs to scale-free models**<br>
 **<a href="https://eps.leeds.ac.uk/maths/staff/13156/dr-peter-gracar" target="_self">Peter Gracar</a>**<br>
 School of Mathematics<br>
@@ -209,8 +196,7 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 
 <hr>
 
-
-<h5>January 28, 2025 | 10:00-11:00</h5>
+##### January 28, 2025 | 10:00-11:00
 **Quantum many-body scars: a new paradigm of order amidst quantum chaos**<br>
 **<a href="https://theory.leeds.ac.uk/zlatko-papic" target="_self">Zlatko Papic</a>**<br>
 School of Physics and Astronomy<br>
@@ -225,7 +211,7 @@ The quest to understand out-of-equilibrium behaviour of complex quantum systems 
 
 <hr>
 
-<h5>February 11, 2025 | 10:00-11:00</h5>
+##### February 11, 2025 | 10:00-11:00
 **Discrete approximations for the induced connection**<br>
 **<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>**<br>
 School of Mathematics<br>
@@ -240,7 +226,7 @@ The induced connection is a natural connection on a subbundle of a vector bundle
 
 <hr>
 
-<h5>February 25, 2025 | 10:00-11:00</h5>
+##### February 25, 2025 | 10:00-11:00
 **Integrable vortices in the Abelian Higgs model**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/15317/nora-gavrea" target="_self">Nora Gavrea</a>**<br>
 School of Mathematics<br>
@@ -255,7 +241,7 @@ Vortices are 2-dimensional topological solitons defined on a Riemann surface in 
 
 <hr>
 
-<h5>March 11, 2025 | 10:00-11:00</h5>
+##### March 11, 2025 | 10:00-11:00
 **Magnetic buoyancy in the solar tachocline**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/11712/lucas-gosling" target="_self">Lucas Gosling</a>**<br>
 School of Mathematics<br>
@@ -266,15 +252,13 @@ University of Leeds
 
 Magnetic buoyancy is the phenomenon for strong magnetic fields to reduce the pressure of electrically-conducting plasma, which can lead to gravitational instabilities. Starting from a toy model primarily of academic concern, magnetic buoyancy was seen as an interesting phenomenon with no known applications. Just one year after its conception, Eugene N. Parker hypothesised that magnetic buoyancy could be a component of the solar dynamo, explaining how the Sun uses this mechanism to redistribute its magnetic field generated deep beneath its surface. The first part of this talk will be a brief literature review summarising how our knowledge of magnetic buoyancy evolved over time, and how its applications were discovered.
 
-<br><br>
-
 The second part of the talk will focus on overstability, i.e., states which exhibit oscillations which grow in time. There are two well-known physical mechanisms within the magnetic buoyancy instability (MBI) which drive overstable modes. I will describe these physical mechanisms and present the findings of my second paper, including the discovery of a third mechanism for overstability. Furthermore, generalising MBI to include variable diffusion restricts overstability, and our newly discovered mechanism is the only one possible in solar interiors. However, our fluid model does not provide sufficient physical insight to describe it, and we instead create a secondary flux tube model to capture the physics of the problem.
 
 </details>
 
 <hr>
 
-<h5>March 18, 2025 | 10:00-11:00</h5>
+##### March 18, 2025 | 10:00-11:00
 **From the quantum sine-Gordon model to number theory via partitions**<br>
 **<a href="https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/414/dunning-clare" target="_self">Clare Dunning</a>**<br>
 School of Engineering, Mathematics and Physics<br>
@@ -289,8 +273,7 @@ Partitions of integers play a role in a variety of fields including number theor
 
 <hr>
 
-
-<h5>May 06, 2025 | 10:00-11:00</h5>
+##### May 06, 2025 | 10:00-11:00
 **Regularizing 3D conformal field theories via the fuzzy sphere**<br>
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**<br>
 School of Physics and Astronomy<br>
