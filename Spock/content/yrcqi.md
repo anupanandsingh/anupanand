@@ -1,5 +1,5 @@
 +++
-title = "Young Researchers in Classical and Quantum Integrability"
+title = "YRCQI"
 +++
 
-Monthly seminars by UK-based postgraduate and postdoctoral researchers working in or areas related to integrability
+Young Researchers in Classical and Quantum Integrability (YRCQI) is a monthly seminar series by UK-based postgraduate and postdoctoral researchers working in or areas related to integrability
