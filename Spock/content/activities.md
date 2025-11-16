@@ -1,5 +1,5 @@
 +++
-title = "Activities"
+title = "Other activities"
 +++
 
 <h4>Editing and reviewing</h4>
