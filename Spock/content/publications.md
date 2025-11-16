@@ -1,5 +1,5 @@
 +++
-title = "Preprints and publications"
+title = "Preprints and Publications"
 subtitle = "In reverse chronological order, authors listed alphabetically by last name"
 +++
 
