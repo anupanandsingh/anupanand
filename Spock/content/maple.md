@@ -35,7 +35,7 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 <hr>
 
 ##### March 05, 2024 | 11:00-12:00
-**The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**<br>
+**The geodesic approximation and the $L^2$-geometry of vortex moduli spaces**<br>
 **<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Cas Chaudhuri</a>**<br>
 School of Mathematics<br>
 University of Leeds
