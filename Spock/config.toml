@@ -17,8 +17,8 @@ disableKinds = ["taxonomy", "term"]
     math = true
 
 [[menu.main]]
-    name = "Blog"
-    url  = "https://anupanandsingh.wordpress.com"
+    name = "Blogs"
+    url  = "/blogs/"
     weight = 10
 [[menu.main]]
     name = "Research"
