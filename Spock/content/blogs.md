@@ -6,4 +6,4 @@ title = "Blogs"
 A slightly old science blog, also includes occasional meanderings
 
 <a href="https://anupanand.space/travels">Travels</a><br>
-Travelogues starting 2023
+Writings from travels across India and Europe (and some other places)
