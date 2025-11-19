@@ -2,6 +2,10 @@
 
 A High contrast, text oriented, performant and Javascript-free theme for Hugo.
 
+## Site Structure
+
+The active Hugo site is located in the `Spock/` directory. All content, configuration, and layouts are maintained there. The GitHub Actions workflow automatically builds and deploys from this directory.
+
 ## Features
 * Loads in a single request (with web-fonts disabled).
 * 100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled).
