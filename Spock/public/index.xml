@@ -1,76 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anup Anand Singh</title><link>https://anupanand.space/</link><description>Recent content on Anup Anand Singh</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://anupanand.space/index.xml" rel="self" type="application/rss+xml"/><item><title>Black &amp; Light Demo</title><link>https://anupanand.space/post/hugo-block-and-light-theme/</link><pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate><guid>https://anupanand.space/post/hugo-block-and-light-theme/</guid><description>&lt;p&gt;&lt;a href="https://github.com/davidhampgonsalves/hugo-black-and-light-theme"&gt;Black and Light&lt;/a&gt; is a high contrast, performant and Javascript-free theme.&lt;/p&gt;
-&lt;h2 id="features"&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Loads in a single request (with web-fonts disabled)&lt;/li&gt;
-&lt;li&gt;100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled)&lt;/li&gt;
-&lt;li&gt;Scriptless (unless you enable Google Analyitcs)&lt;/li&gt;
-&lt;li&gt;Styles inlined in head&lt;/li&gt;
-&lt;li&gt;High Contrast&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="style-demo"&gt;Style Demo&lt;/h2&gt;
-&lt;h1 id="h1-heading"&gt;h1 Heading&lt;/h1&gt;
-&lt;h2 id="h2-heading"&gt;h2 Heading&lt;/h2&gt;
-&lt;h3 id="h3-heading"&gt;h3 Heading&lt;/h3&gt;
-&lt;h4 id="h4-heading"&gt;h4 Heading&lt;/h4&gt;
-&lt;h5 id="h5-heading"&gt;h5 Heading&lt;/h5&gt;
-&lt;h6 id="h6-heading"&gt;h6 Heading&lt;/h6&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Creating a New Theme</title><link>https://anupanand.space/post/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://anupanand.space/post/creating-a-new-theme/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
-&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description></item><item><title>(Hu)go Template Primer</title><link>https://anupanand.space/post/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://anupanand.space/post/goisforlovers/</guid><description>&lt;p&gt;Hugo uses the excellent &lt;a href="http://golang.org/"&gt;go&lt;/a&gt; &lt;a href="http://golang.org/pkg/html/template/"&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.&lt;/p&gt;
-&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href="http://golang.org/pkg/html/template/"&gt;go docs&lt;/a&gt;
-provide more details.&lt;/p&gt;</description></item><item><title>Getting Started with Hugo</title><link>https://anupanand.space/post/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://anupanand.space/post/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo"&gt;Step 1. Install Hugo&lt;/h2&gt;
-&lt;p&gt;Goto &lt;a href="https://github.com/spf13/hugo/releases"&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-&lt;p&gt;More complete instructions are available at &lt;a href="https://anupanand.space/overview/installing/"&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="step-2-build-the-docs"&gt;Step 2. Build the Docs&lt;/h2&gt;
-&lt;p&gt;Hugo has its own example site which happens to also be the documentation site
-you are reading right now.&lt;/p&gt;
-&lt;p&gt;Follow the following steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Clone the &lt;a href="http://github.com/spf13/hugo"&gt;hugo repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Go into the repo&lt;/li&gt;
-&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;
-&lt;li&gt;Open your browser to http://localhost:1313&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;</description></item><item><title>Migrate to Hugo from Jekyll</title><link>https://anupanand.space/post/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>https://anupanand.space/post/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static"&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
- ▾ images/
- logo.png
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;should become&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
- ▾ static/
- ▾ images/
- logo.png
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Activities</title><link>https://anupanand.space/activities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/activities/</guid><description>&lt;h4&gt;Editing and reviewing&lt;/h4&gt;
-&lt;p&gt;I am a member of the editorial team of &lt;a href="https://www.mfo.de/outreach-media/snapshots" target="_self"&gt;Snapshots of modern mathematics from Oberwolfach&lt;/a&gt;, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review papers for &lt;a href="https://www.ams.org/mr-database" target="_self"&gt;AMS Mathematical Reviews&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;Organisational activities&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://anupanand.space/activities/" target="_self"&gt;Mathematical Physics at Leeds Seminar Series (MaPLe)&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://anupanand.space/activities/" target="_self"&gt;Recent Advances in Classical and Quantum Integrability (Calista WG2 Workshop)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description></item><item><title>Collaborators</title><link>https://anupanand.space/collaborators/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/collaborators/</guid><description>&lt;h4&gt;Integrable systems&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self"&gt;Vincent Caudrelier&lt;/a&gt;\lt;br\gt;
-&lt;a href="https://sites.google.com/view/martadellatti" target="_self"&gt;Marta Dell&amp;rsquo;Atti&lt;/a&gt;\lt;br\gt;
-&lt;a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self"&gt;Derek Harland&lt;/a&gt;\lt;br\gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anup Anand Singh</title><link>https://anupanand.space/</link><description>Recent content on Anup Anand Singh</description><generator>Hugo</generator><language>en</language><atom:link href="https://anupanand.space/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://anupanand.space/blogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/blogs/</guid><description>&lt;p&gt;&lt;a href="https://anupanandsingh.wordpress.com/"&gt;Elementary Penguins&lt;/a&gt;&lt;br&gt;
+A slightly old science blog, also includes occasional meanderings&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://anupanand.space/travels"&gt;&lt;br&gt;Travels&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Collaborators</title><link>https://anupanand.space/collaborators/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/collaborators/</guid><description>&lt;h4&gt;Integrable systems&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self"&gt;Vincent Caudrelier&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://sites.google.com/view/martadellatti" target="_self"&gt;Marta Dell&amp;rsquo;Atti&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self"&gt;Derek Harland&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://www.york.ac.uk/maths/people/benoit-vicedo" target="_self"&gt;Benoît Vicedo&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Causal set theory&lt;/h4&gt;
-&lt;p&gt;Abhishek Mathur\lt;br\gt;
+&lt;p&gt;Abhishek Mathur&lt;br&gt;
 &lt;a href="https://sumatisuryaswebpage.wordpress.com" target="_self"&gt;Sumati Surya&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Lagrangian multiforms</title><link>https://anupanand.space/multiforms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/multiforms/</guid><description/></item><item><title>MaPLe</title><link>https://anupanand.space/maple/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/maple/</guid><description>&lt;p&gt;The &lt;strong&gt;Ma&lt;/strong&gt;thematical &lt;strong&gt;P&lt;/strong&gt;hysics at &lt;strong&gt;Le&lt;/strong&gt;eds Seminar Series is aimed at bringing together researchers at any level from across the University of Leeds — from mathematics and physics departments alike — to give talks on themes in mathematical physics, broadly construed. On occasion, seminars also include those by researchers from outside the University of Leeds.&lt;/p&gt;
 &lt;p&gt;The series was co-founded, and organised between February 2024 and May 2025, by &lt;strong&gt;&lt;a href="https://disneyhogg.github.io/personal_webpage/index.html" target="_self"&gt;Linden Disney-Hogg&lt;/a&gt;&lt;/strong&gt; and me. A list of all MaPLe seminars held in this period can be found below.&lt;/p&gt;</description></item><item><title>Miscellany</title><link>https://anupanand.space/miscellany/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/miscellany/</guid><description>&lt;h4&gt;Academics on research, learning, and career&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://karagila.org/2024/lighthouse"&gt;The lighthouse problem&lt;/a&gt;, Asaf Karagila\lt;br\gt;
-&lt;a href="http://math.ucr.edu/home/baez/books.html"&gt;How to learn math and physics&lt;/a&gt;, John Baez\lt;br\gt;
-&lt;a href="https://terrytao.wordpress.com/career-advice"&gt;Career advice&lt;/a&gt;, Terence Tao&lt;/p&gt;</description></item><item><title>Patna</title><link>https://anupanand.space/patna/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/patna/</guid><description/></item><item><title>Preprints and publications</title><link>https://anupanand.space/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/publications/</guid><description>&lt;div class="publication"&gt;
+&lt;p&gt;&lt;a href="https://karagila.org/2024/lighthouse"&gt;The lighthouse problem&lt;/a&gt;, Asaf Karagila&lt;br&gt;
+&lt;a href="http://math.ucr.edu/home/baez/books.html"&gt;How to learn math and physics&lt;/a&gt;, John Baez&lt;br&gt;
+&lt;a href="https://terrytao.wordpress.com/career-advice"&gt;Career advice&lt;/a&gt;, Terence Tao&lt;/p&gt;</description></item><item><title>Other Activities</title><link>https://anupanand.space/activities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/activities/</guid><description>&lt;h4&gt;Editing and reviewing&lt;/h4&gt;
+&lt;p&gt;I am a member of the editorial team of &lt;a href="https://www.mfo.de/outreach-media/snapshots" target="_self"&gt;Snapshots of modern mathematics from Oberwolfach&lt;/a&gt;, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review papers for &lt;a href="https://www.ams.org/mr-database" target="_self"&gt;AMS Mathematical Reviews&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;Organisational activities&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://anupanand.space/maple/" target="_self"&gt;Mathematical Physics at Leeds Seminar Series (MaPLe)&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://eventi.unibo.it/calista-integrability-2025" target="_self"&gt;Recent Advances in Classical and Quantum Integrability (Calista WG2 Workshop)&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Patna</title><link>https://anupanand.space/patna/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/patna/</guid><description/></item><item><title>Preprints and Publications</title><link>https://anupanand.space/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/publications/</guid><description>&lt;div class="publication"&gt;
 &lt;b&gt;The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system&lt;/b&gt;&lt;br&gt;
 Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo&lt;br&gt;
 Preprint&lt;br&gt;
@@ -99,33 +46,33 @@ Abhishek Mathur, Anup Anand Singh, and Sumati Surya&lt;br&gt;
 December 2020
 &lt;/div&gt;</description></item><item><title>Research</title><link>https://anupanand.space/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/research/</guid><description>&lt;h4&gt;Lagrangian multiforms, integrability, and quantisation&lt;/h4&gt;
 &lt;p&gt;Much of my ongoing work is rooted in three major themes: the &lt;a href="https://link.springer.com/article/10.1007/BF01076717" target="_self"&gt;$r$-matrix&lt;/a&gt; approach to integrable systems, the theory of &lt;a href="https://arxiv.org/abs/0903.4086" target="_self"&gt;Lagrangian multiforms&lt;/a&gt;, and the &lt;a href="https://arxiv.org/abs/1908.02289" target="_self"&gt;gauge-theoretic origins&lt;/a&gt; of integrable structures. During my doctoral studies at the University of Leeds under the supervision of Vincent Caudrelier and Derek Harland, I developed a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. In the following two papers, we used the theory of Lie dialgebras to achieve this goal for a large class of finite-dimensional integrable systems:&lt;/p&gt;</description></item><item><title>Talks</title><link>https://anupanand.space/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/talks/</guid><description>&lt;h4&gt; Recent &lt;/h4&gt;
-&lt;p&gt;&lt;b&gt;Geometric Lagrangian one-forms and Hitchin systems&lt;/b&gt;\lt;br\gt;
-Geometry and Mathematical Physics Seminar\lt;br\gt;
-Department of Mathematical Sciences, Loughborough University\lt;br\gt;
+&lt;p&gt;&lt;b&gt;Geometric Lagrangian one-forms and Hitchin systems&lt;/b&gt;&lt;br&gt;
+Geometry and Mathematical Physics Seminar&lt;br&gt;
+Department of Mathematical Sciences, Loughborough University&lt;br&gt;
 Loughborough, October 2025&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;b&gt;3d mixed BF theory and Hitchin integrable hierarchies&lt;/b&gt;\lt;br\gt;
-&lt;a href="https://www.isqs.online/" target="_blank"&gt;XXIX International Conference on Integrable Systems and Quantum Symmetries (ISQS29)&lt;/a&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;3d mixed BF theory and Hitchin integrable hierarchies&lt;/b&gt;&lt;br&gt;
+&lt;a href="https://www.isqs.online/" target="_blank"&gt;XXIX International Conference on Integrable Systems and Quantum Symmetries (ISQS29)&lt;/a&gt;&lt;br&gt;
 Prague (Hybrid), July 2025&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;b&gt;Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems&lt;/b&gt;\lt;br\gt;
-&lt;a href="https://nms.kcl.ac.uk/gerard.watts/icft2025/" target="_blank"&gt;UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)&lt;/a&gt;\lt;br\gt;
-King&amp;rsquo;s College London\lt;br\gt;
+&lt;p&gt;&lt;b&gt;Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems&lt;/b&gt;&lt;br&gt;
+&lt;a href="https://nms.kcl.ac.uk/gerard.watts/icft2025/" target="_blank"&gt;UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)&lt;/a&gt;&lt;br&gt;
+King&amp;rsquo;s College London&lt;br&gt;
 London, June 2025&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;b&gt;Lagrangian multiforms for finite-dimensional integrable hierarchies&lt;/b&gt;\lt;br\gt;
-&lt;a href="https://side15.unimi.it/" target="_blank"&gt;Symmetries and Integrability of Difference Equations (SIDE15)&lt;/a&gt;\lt;br\gt;
-Sirmione (Hybrid), June 2025&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://anupanand.space/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/teaching/</guid><description>&lt;p&gt;&lt;b&gt;MATH1300 Dynamics and Motion | Tutorial&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;Lagrangian multiforms for finite-dimensional integrable hierarchies&lt;/b&gt;&lt;br&gt;
+&lt;a href="https://side15.unimi.it/" target="_blank"&gt;Symmetries and Integrability of Difference Equations (SIDE15)&lt;/a&gt;&lt;br&gt;
+Sirmione (Hybrid), June 2025&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://anupanand.space/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anupanand.space/teaching/</guid><description>&lt;p&gt;&lt;b&gt;MATH1300 Dynamics and Motion | Tutorial&lt;/b&gt;&lt;br&gt;
 University of Leeds, Spring 2025&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH2080 Further Linear Algebra | Workshop&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH2080 Further Linear Algebra | Workshop&lt;/b&gt;&lt;br&gt;
 University of Leeds, Autumn 2024&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH2230 Discrete Mathematics | Workshop&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH2230 Discrete Mathematics | Workshop&lt;/b&gt;&lt;br&gt;
 University of Leeds, Spring 2024&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH2080 Further Linear Algebra | Workshop&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH2080 Further Linear Algebra | Workshop&lt;/b&gt;&lt;br&gt;
 University of Leeds, Autumn 2023&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH1005 Core Mathematics | Tutorial&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH1005 Core Mathematics | Tutorial&lt;/b&gt;&lt;br&gt;
 University of Leeds, Spring 2023&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH1055 Numbers and Vectors | Tutorial&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH1055 Numbers and Vectors | Tutorial&lt;/b&gt;&lt;br&gt;
 University of Leeds, Autumn 2022&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MATH1050 Calculus and Mathematical Analysis | Tutorial&lt;/b&gt;\lt;br\gt;
+&lt;p&gt;&lt;b&gt;MATH1050 Calculus and Mathematical Analysis | Tutorial&lt;/b&gt;&lt;br&gt;
 University of Leeds, Autumn 2022&lt;/p&gt;</description></item></channel></rss>
