@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+  <h1>{{ .Title }}</h1>
+  {{ if .Params.subtitle }}
+    <div class="page-subtitle">{{ .Params.subtitle | safeHTML }}</div>
+  {{ end }}
+
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+
+  {{ if .Pages }}
+    <h3>Posts</h3>
+    <ul class="posts_listing">
+      {{ range .Pages.ByDate.Reverse }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ if .Date }}
+            <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</section>
+
+{{ partial "footer.html" . }}
