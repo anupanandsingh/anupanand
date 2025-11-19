@@ -8,21 +8,20 @@
 
   <div class="entry-content">
     {{ .Content }}
-  </div>
 
-  {{ if .Pages }}
-    <h3>Posts</h3>
-    <ul class="posts_listing">
-      {{ range .Pages.ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          {{ if .Date }}
-            <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
-          {{ end }}
-        </li>
-      {{ end }}
-    </ul>
-  {{ end }}
+    {{ if .Pages }}
+      <ul class="posts_listing">
+        {{ range .Pages.ByDate.Reverse }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if .Date }}
+              <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
 </section>
 
 {{ partial "footer.html" . }}
