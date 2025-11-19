@@ -17,12 +17,12 @@ disableKinds = ["taxonomy", "term"]
     math = true
 
 [[menu.main]]
-    name = "Blogs"
-    url  = "/blogs/"
-    weight = 10
-[[menu.main]]
     name = "Research"
     url  = "/research/"
+    weight = 10
+[[menu.main]]
+    name = "Blogs"
+    url  = "/blogs/"
     weight = 20
 [[menu.main]]
     name = "Talks"
