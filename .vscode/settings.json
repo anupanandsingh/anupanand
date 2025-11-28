@@ -1,5 +1,17 @@
 {
   "cSpell.ignoreRegExpList": [
-    "href\\s*=\\s*[\"'][^\"']*[\"']"
+    "href\\s*=\\s*[\"'][^\"']*[\"']",
+    "href\\s*=\\s*\"[^\"]*\"",
+    "href\\s*=\\s*'[^']*'"
+  ],
+  "cSpell.languageSettings": [
+    {
+      "languageId": "markdown,html",
+      "ignoreRegExpList": [
+        "href\\s*=\\s*[\"'][^\"']*[\"']",
+        "<a[^>]*>",
+        "https?://[^\\s<>\"']*"
+      ]
+    }
   ]
 }
