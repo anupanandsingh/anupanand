@@ -15,4 +15,8 @@ I am on the editorial board of the <a href="https://www.mfo.de/outreach-media/sn
 
 <hr>
 
+Together with Mats Vermeeren and Davide Vallenzasca, I am organising the <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">XX International Young Researchers Workshop on Geometry, Dynamics and Field Theory</a>. This is an annual event for early career researchers working in the area of differential geometry and its connections with dynamics and field theory. Head <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">here</a> for more information and for links to register for the school and to propose a short contributed talk or a poster.
+
+<hr>
+
 I am always happy to discuss research --- drop me a line at **anupanandsingh[at]protonmail.com**.
