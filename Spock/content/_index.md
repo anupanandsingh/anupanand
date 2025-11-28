@@ -15,7 +15,7 @@ I am on the editorial board of the <a href="https://www.mfo.de/outreach-media/sn
 
 <hr>
 
-Together with Mats Vermeeren and Davide Vallenzasca, I am organising the <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">XX International Young Researchers Workshop on Geometry, Dynamics and Field Theory</a> to be held from March 25-March 27, 2026 at Loughborough University. This is an annual event for early career researchers working in the area of differential geometry and its connections with dynamics and field theory. Head <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">here</a> for more information and the registration form. You can also propose a short contributed talk or a poster.
+Together with Mats Vermeeren and Davide Vallenzasca, I am organising the <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">XX International Young Researchers Workshop on Geometry, Dynamics and Field Theory</a> to be held during March 25--March 27, 2026 at Loughborough University. This is an annual event for early career researchers working in the area of differential geometry and its connections with dynamics and field theory. Head <a href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/">here</a> for more information and the registration form. You can also propose to give a short contributed talk or present a poster.
 
 <hr>
 
