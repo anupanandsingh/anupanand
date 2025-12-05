@@ -23,7 +23,7 @@ More recently, we constructed a Lagrangian multiform for the Hitchin integrable 
 
 <b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
 Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
-Preprint<br>
+To appear in Communications in Mathematical Physics<br>
 <a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
 September 2025
 
