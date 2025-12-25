@@ -11,7 +11,7 @@
 
     {{ if .Pages }}
       <ul class="posts_listing">
-        {{ range .Pages.ByDate.Reverse }}
+        {{ range .Pages.ByWeight.Reverse }}
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{ if .Date }}
