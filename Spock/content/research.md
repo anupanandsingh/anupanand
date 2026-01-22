@@ -23,9 +23,9 @@ More recently, we constructed a Lagrangian multiform for the Hitchin integrable 
 
 <b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
 Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
-To appear in Communications in Mathematical Physics<br>
+<a href="https://link.springer.com/article/10.1007/s00220-025-05535-8">Communications in Mathematical Physics</a><br>
 <a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
-September 2025
+January 2026
 
 The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models. A related long*ish*-term goal is to use our construction together with the path integral formalism to tackle the quantisation of integrable hierarchies.
 
