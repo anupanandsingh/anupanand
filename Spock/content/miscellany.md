@@ -6,4 +6,5 @@ title = "Miscellany"
 
 <a href="https://karagila.org/2024/lighthouse">The lighthouse problem</a>, Asaf Karagila<br>
 <a href="http://math.ucr.edu/home/baez/books.html">How to learn math and physics</a>, John Baez<br>
-<a href="https://terrytao.wordpress.com/career-advice">Career advice</a>, Terence Tao
+<a href="https://terrytao.wordpress.com/career-advice">Career advice</a>, Terence Tao<br>
+<a href="https://arxiv.org/abs/math/9404236">On proof and progress in mathematics</a>, William P. Thurston
