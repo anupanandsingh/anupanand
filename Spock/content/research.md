@@ -3,13 +3,11 @@ title = "Research"
 subtitle = 'A consolidated list of my preprints and publications can be found <a href="https://anupanand.space/publications/" target="_self">here</a>'
 +++
 
-<h4>Lagrangian multiforms, integrability, and quantisation</h4>
+<h4>Lagrangian multiforms, holomorphic-topological gauge theory, and Hitchin systems</h4>
 
-I work on what are called classical integrable models, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrability, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures.
+I work on what are called classical integrable models, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrability, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures. 
 
-<h5>Holomorphic-topological gauge theory and Lagrangian multiforms</h5>
-
-In a recent work, my collaborators and I obtained a variational formulation of the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process. The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models.
+In a recent work, my collaborators and I obtained a variational formulation of the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process.
 
 <b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
 Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
@@ -17,7 +15,12 @@ Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
 <a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
 January 2026
 
-<h5>Lagrangian multiforms on coadjoint orbits</h5>
+
+The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models. 
+
+<hr>  
+
+<h4>Lagrangian multiforms on coadjoint orbits</h4>
 
 During my doctoral studies at the University of Leeds, together with my doctoral supervisors and our collaborators, I developed two approaches for the systematic construction of Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle.
 
