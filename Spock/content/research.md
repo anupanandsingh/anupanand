@@ -3,7 +3,7 @@ title = "Research"
 subtitle = 'A consolidated list of my preprints and publications can be found <a href="https://anupanand.space/publications/" target="_self">here</a>'
 +++
 
-<h4>Lagrangian multiforms, holomorphic-topological gauge theory, and Hitchin systems</h4>
+<h4>Lagrangian multiforms, holomorphic-topological gauge theories, and Hitchin systems</h4>
 
 I work on what are called classical integrable models, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrability, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures. 
 
