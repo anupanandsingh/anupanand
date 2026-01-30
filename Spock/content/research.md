@@ -5,8 +5,6 @@ subtitle = 'A consolidated list of my preprints and publications can be found <a
 
 <h4>Gauge theory, Lagrangian multiforms, and Hitchin systems</h4>
 
-I work on what are called classical integrable models, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrability, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures. 
-
 In a recent work, my collaborators and I obtained a variational formulation of the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process.
 
 <b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
