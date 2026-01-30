@@ -5,7 +5,21 @@ subtitle = 'A consolidated list of my preprints and publications can be found <a
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
-I work on what are called classical integrable theories, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrable systems, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures. During my doctoral studies at the University of Leeds, together with my doctoral supervisors and our collaborators, I developed a framework for the systematic construction of Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. In the following two papers, we used the theory of Lie dialgebras to achieve this for a large class of finite-dimensional integrable systems:
+I work on what are called classical integrable models, with the goal of developing a framework for their covariant quantisation. Much of my ongoing work is rooted in three major themes: the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">r-matrix approach</a> to integrability, the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>, and the <a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a> of integrable structures.
+
+<h5>Holomorphic-topological gauge theory and Lagrangian multiforms</h5>
+
+In a recent work, my collaborators and I obtained a variational formulation of the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process. The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models.
+
+<b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
+Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
+<a href="https://link.springer.com/article/10.1007/s00220-025-05535-8">Communications in Mathematical Physics</a><br>
+<a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
+January 2026
+
+<h5>Lagrangian multiforms on coadjoint orbits</h5>
+
+During my doctoral studies at the University of Leeds, together with my doctoral supervisors and our collaborators, I developed two approaches for the systematic construction of Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle.
 
 <b>Lagrangian multiforms on coadjoint orbits for finite-dimensional integrable systems</b><br>
 Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh<br>
@@ -19,15 +33,8 @@ Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo<br>
 <a href="https://arxiv.org/abs/2405.12837">arXiv:2405.12837 [math-ph]</a><br>
 November 2024
 
-More recently, we constructed a Lagrangian multiform for the Hitchin integrable system using gauge-theoretic ideas:
 
-<b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
-Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
-<a href="https://link.springer.com/article/10.1007/s00220-025-05535-8">Communications in Mathematical Physics</a><br>
-<a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
-January 2026
-
-The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models. A related long*ish*-term goal is to use our construction together with the path integral formalism to tackle the quantisation of integrable hierarchies.
+<!--  A related long*ish*-term goal is to use our construction together with the path integral formalism to tackle the quantisation of integrable hierarchies. -->
 
 <!-- Much of my current work is rooted in the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a> approach to integrable systems and the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>. Together with my doctoral supervisors and our collaborators, I am developing a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. Incorporating ingredients and ideas from the Hamiltonian framework for integrability -- in particular, the theory of Lie dialgebras -- we have achieved this for a large class of finite-dimensional integrable systems. At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner. -->
 
