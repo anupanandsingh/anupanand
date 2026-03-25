@@ -5,7 +5,9 @@ subtitle = 'A consolidated list of my preprints and publications can be found <a
 
 <h4>Lie dialgebras, gauge theory, and Lagrangian multiforms</h4>
 
-During my doctoral studies at the University of Leeds, together with my doctoral supervisors and our collaborators, I developed two approaches for the systematic construction of Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle.
+Much of my current work is rooted in the <a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a> approach to integrable systems and the theory of <a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>. Lagrangian multiforms provide a variational framework for describing integrable hierarchies. During my doctoral studies at the University of Leeds, together with my doctoral supervisors and our collaborators, I developed two approaches for systematically constructing Lagrangian one-forms, which cover the case of finite-dimensional integrable hierarchies, thus addressing one of the central open problems in the theory of Lagrangian multiforms.
+
+The first of these, developed in the following two works, is based on the theory of Lie dialgebras and incorporates into Lagrangian one-forms the notion of the classical r-matrix and produces Lagrangian one-forms living on coadjoint orbits.
 
 <b>Lagrangian multiforms on coadjoint orbits for finite-dimensional integrable systems</b><br>
 Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh<br>
@@ -19,7 +21,7 @@ Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo<br>
 <a href="https://arxiv.org/abs/2405.12837">arXiv:2405.12837 [math-ph]</a><br>
 November 2024
 
-In a recent work, my collaborators and I obtained derived a Lagrangian multiform for the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process.
+In a more recent work where the second approach was developed, my collaborators and I derived a Lagrangian multiform for the Hitchin system, establishing a connection between 3d holomorphic-topological BF theory and the Hitchin system at the classical level in the process. The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models.
 
 <b>The 3d mixed BF Lagrangian 1-form: a variational formulation of Hitchin's integrable system</b><br>
 Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
@@ -27,7 +29,6 @@ Vincent Caudrelier, Derek Harland, Anup Anand Singh, and Benoît Vicedo<br>
 <a href="https://arxiv.org/abs/2509.05127">arXiv:2509.05127 [math-ph]</a><br>
 January 2026
 
-The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models. 
 
 
 <!--  A related long*ish*-term goal is to use our construction together with the path integral formalism to tackle the quantisation of integrable hierarchies. -->
