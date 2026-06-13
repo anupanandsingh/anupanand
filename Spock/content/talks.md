@@ -4,6 +4,14 @@ title = "Talks"
 
 <h4> Recent </h4>
 
+<b>A phase-space approach to Lagrangian multiforms</b><br>
+<a href="https://iop.eventsair.com/icft2026/" target="_blank">UK Meeting on Integrable and Conformal Field Theory (ICFT 2026)</a><br>
+Cardiff University<br>
+Cardiff, June 2026
+
+<hr>
+
+
 <b>Geometric Lagrangian one-forms and Hitchin systems</b><br>
 Geometry and Mathematical Physics Seminar<br>
 Department of Mathematical Sciences, Loughborough University<br>
