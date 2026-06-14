@@ -7,8 +7,7 @@ title = "Talks"
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin systems</b><br>
 <a href="https://indico.desy.de/event/52489/" target="_blank">Integrability in Gauge and String Theory (ICFT) 2026</a><br>
 Deutsches Elektronen-Synchrotron<br>
-Hamburg, June 2026<br>
-<a href="/assets/pdf/IGST_Jun26.pdf" target="_blank">Slides</a> containing an introduction to Lagrangian multiforms, the theory of Lie dialgebras, the construction of a general Lagrangian one-form living on a coadjoint orbit, and an illustration of this construction for the finite rational Gaudin model. Based on <a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a> with Vincent Caudrelier, Derek Harland, and Benoit Vicedo.
+Hamburg, June 2026
 
 <hr>
 
