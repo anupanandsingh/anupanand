@@ -7,7 +7,7 @@ title = "Talks"
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin systems</b><br>
 <a href="https://indico.desy.de/event/52489/" target="_blank">Integrability in Gauge and String Theory (ICFT) 2026</a><br>
 Deutsches Elektronen-Synchrotron<br>
-Hamburg, June 2026
+Hamburg (Hybrid), June 2026
 
 <hr>
 
