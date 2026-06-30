@@ -5,9 +5,12 @@ title = "Talks"
 <h4> Recent </h4>
 
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin systems</b><br>
-<a href="https://indico.desy.de/event/52489/" target="_blank">Integrability in Gauge and String Theory (ICFT) 2026</a><br>
+<a href="https://indico.desy.de/event/52489/" target="_blank">Integrability in Gauge and String Theory (IGST) 2026</a><br>
 Deutsches Elektronen-Synchrotron<br>
+A short talk offering an overview of some results from the joint work with Vincent Caudrelier, Derek Harland, and Benoît Vicedo. The slides can be found <a href="https://indico.desy.de/event/52489/sessions/22981/attachments/104355/146117/Singh.pdf" target="_blank">here</a>. A recording of the talk will be available soon.<br>
+<i>Selected as the Best Short Talk at the conference.</i><br>
 Hamburg (Hybrid), June 2026
+
 
 <hr>
 
