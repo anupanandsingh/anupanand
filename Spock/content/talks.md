@@ -4,6 +4,13 @@ title = "Talks"
 
 <h4> Recent </h4>
 
+
+<b>Geometric Lagrangian one-forms and Hitchin integrable systems</b><br>
+<a href="https://www.isnmp.de/ISNMP-Conferences/ISNMP-2026/" target="_blank">Second International Society of Nonlinear Mathematical Physics (ISNMP) Conference</a><br>
+Bad Ems, July 2026
+
+<hr>
+
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin systems</b><br>
 <a href="https://indico.desy.de/event/52489/" target="_blank">Integrability in Gauge and String Theory (IGST) 2026</a><br>
 Deutsches Elektronen-Synchrotron<br>
